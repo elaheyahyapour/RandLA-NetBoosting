@@ -10,9 +10,9 @@ The architecture of the proposed RandLA-NetBoosting model. It includes key compo
 
 The class distribution in two major 3D point cloud datasets:
 
--(a) Toronto 3D: Shows a significant imbalance with dominant classes like Ground and Building, while critical but underrepresented classes like Road Marking and Fence are underrepresented.
+- (a) Toronto 3D: Shows a significant imbalance with dominant classes like Ground and Building, while critical but underrepresented classes like Road Marking and Fence are underrepresented.
 
--(b) Semantic3D: Highlights a different distribution, with categories like Building and Man-made Terrain being the majority, creating challenges for segmentation fairness.
+- (b) Semantic3D: Highlights a different distribution, with categories like Building and Man-made Terrain being the majority, creating challenges for segmentation fairness.
 
 
 <img width="750" alt="Picture2" src="https://github.com/user-attachments/assets/e76b62ae-e917-4b47-a48f-d4364f835eec" />
